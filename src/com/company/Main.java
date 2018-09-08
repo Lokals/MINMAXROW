@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Wpisz liczbe");
+        System.out.println("Wpisz asd d liczbe");
         Scanner in = new Scanner(System.in);
         while(in.hasNext()) {
             System.out.println(in.next());
 
-        }
+        }`` ``
 
     }
 }
